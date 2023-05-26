@@ -5,16 +5,20 @@ h1{
 }
 
 .paragraph1{
-    font-style: italic;
-    border: 5px;
+    border: 5em;
+    margin: 2em;
+    padding: 3em;
     background-color: blue;
+    font-style: italic;
     color: white;
     text-align: right;
     font-family: 'Montserrat', sans-serif;
 }
 
 .paragraph2{
-    border: 5px;
+    border: 5em; 
+    margin: 2em;
+    padding: 1em;
     background-color: black;
     color: yellow;
     text-align: left;
