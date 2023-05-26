@@ -1,0 +1,33 @@
+h1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+.paragraph1{
+    font-style: italic;
+    border: 5px;
+    background-color: blue;
+    color: white;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paragraph2{
+    border: 5px;
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+}
+
+form{
+    background-color: lightblue;
+    text-align: center;
+}
+
+button{
+    background-color: red;
+    color: white;
+}
